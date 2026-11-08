@@ -1,0 +1,21 @@
+{
+    "name": "AgentComparison.Goap.Core.Tests",
+    "rootNamespace": "AgentComparison.Goap.Tests",
+    "references": [
+        "AgentComparison.Goap.Core"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": true,
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ]
+}

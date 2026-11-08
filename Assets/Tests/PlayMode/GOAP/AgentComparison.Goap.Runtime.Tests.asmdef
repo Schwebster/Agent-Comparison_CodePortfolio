@@ -1,0 +1,6 @@
+{
+    "name": "AgentComparison.Goap.Runtime.Tests",
+    "references": ["AgentComparison.Goap.Core"],
+    "optionalUnityReferences": ["TestAssemblies"],
+    "autoReferenced": false
+}
